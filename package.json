@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "install:be": "cd device-table-backend && npm install",
+    "install:ui": "cd device-table && npm install",
+    "install": "npm run install:be && npm run install:ui"
+  }
+}

@@ -1,0 +1,48 @@
+# BACKEND
+
+# dependencies
+/device-table-backend/node_modules
+/device-table-backend/.pnp
+/device-table-backend/.pnp.js
+
+# testing
+/device-table-backend/coverage
+
+# production
+/device-table-backend/build
+
+# misc
+/device-table-backend/.DS_Store
+/device-table-backend/.env.local
+/device-table-backend/.env.development.local
+/device-table-backend/.env.test.local
+/device-table-backend/.env.production.local
+
+/device-table-backend/npm-debug.log*/
+/device-table-backend/yarn-debug.log*
+/device-table-backend/yarn-error.log/*
+
+# FRONTEND
+
+# dependencies
+/device-table/node_modules
+/device-table/.pnp
+/device-table/.pnp.js
+
+# testing
+/device-table/coverage
+
+# production
+/device-table/build
+
+# misc
+/device-table/.DS_Store
+/device-table/.env.local
+/device-table/.env.development.local
+/device-table/.env.test.local
+/device-table/.env.production.local
+
+/device-table/npm-debug.log*
+/device-table/yarn-debug.log*
+/device-table/yarn-error.log*
+
